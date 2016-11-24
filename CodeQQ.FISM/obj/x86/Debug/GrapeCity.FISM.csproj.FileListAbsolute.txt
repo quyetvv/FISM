@@ -1,0 +1,28 @@
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\bin\Debug\FISM.exe
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\bin\Debug\FISM.pdb
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\bin\Debug\GrapeCity.FISM.DataServices.dll
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\bin\Debug\GrapeCity.FISM.DataServices.pdb
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\obj\x86\Debug\GrapeCity.FISM.csprojResolveAssemblyReference.cache
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\obj\x86\Debug\FISM.exe
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\obj\x86\Debug\FISM.pdb
+D:\Projects\FISM\GrapeCity.FISM\obj\x86\Debug\FISM.exe
+D:\Projects\FISM\GrapeCity.FISM\obj\x86\Debug\FISM.pdb
+D:\Projects\FISM\GrapeCity.FISM\bin\Debug\FISM.exe
+D:\Projects\FISM\GrapeCity.FISM\bin\Debug\FISM.pdb
+D:\Projects\FISM\GrapeCity.FISM\bin\Debug\GrapeCity.FISM.DataServices.dll
+D:\Projects\FISM\GrapeCity.FISM\bin\Debug\GrapeCity.FISM.DataServices.pdb
+D:\Projects\FISM\GrapeCity.FISM\obj\x86\Debug\GrapeCity.FISM.csprojResolveAssemblyReference.cache
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM\bin\Debug\FISM.exe
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM\bin\Debug\FISM.pdb
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM\bin\Debug\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM\bin\Debug\GrapeCity.FISM.Data.pdb
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM\obj\x86\Debug\GrapeCity.FISM.csprojResolveAssemblyReference.cache
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM\obj\x86\Debug\FISM.exe
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM\obj\x86\Debug\FISM.pdb
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM\bin\Debug\FISM.exe
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM\bin\Debug\FISM.pdb
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM\bin\Debug\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM\bin\Debug\GrapeCity.FISM.Data.pdb
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM\obj\x86\Debug\GrapeCity.FISM.csprojResolveAssemblyReference.cache
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM\obj\x86\Debug\FISM.exe
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM\obj\x86\Debug\FISM.pdb

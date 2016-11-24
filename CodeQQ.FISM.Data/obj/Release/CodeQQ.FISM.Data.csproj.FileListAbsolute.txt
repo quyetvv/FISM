@@ -1,0 +1,4 @@
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM.Data\bin\Release\CodeQQ.FISM.Data.dll
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM.Data\bin\Release\CodeQQ.FISM.Data.pdb
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM.Data\obj\Release\CodeQQ.FISM.Data.dll
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM.Data\obj\Release\CodeQQ.FISM.Data.pdb

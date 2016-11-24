@@ -1,0 +1,4 @@
+c:\users\darklight\documents\visual studio 2010\Projects\GrapeCity.FISM.Utils\bin\Debug\GrapeCity.FISM.Utils.dll
+c:\users\darklight\documents\visual studio 2010\Projects\GrapeCity.FISM.Utils\bin\Debug\GrapeCity.FISM.Utils.pdb
+c:\users\darklight\documents\visual studio 2010\Projects\GrapeCity.FISM.Utils\obj\Debug\GrapeCity.FISM.Utils.dll
+c:\users\darklight\documents\visual studio 2010\Projects\GrapeCity.FISM.Utils\obj\Debug\GrapeCity.FISM.Utils.pdb

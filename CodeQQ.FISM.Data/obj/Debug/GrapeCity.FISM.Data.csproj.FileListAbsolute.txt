@@ -1,0 +1,20 @@
+c:\users\darklight\documents\visual studio 2010\Projects\GrapeCity.FISM.Utils\bin\Debug\GrapeCity.FISM.DataServices.dll
+c:\users\darklight\documents\visual studio 2010\Projects\GrapeCity.FISM.Utils\bin\Debug\GrapeCity.FISM.DataServices.pdb
+c:\users\darklight\documents\visual studio 2010\Projects\GrapeCity.FISM.Utils\obj\Debug\GrapeCity.FISM.DataServices.dll
+c:\users\darklight\documents\visual studio 2010\Projects\GrapeCity.FISM.Utils\obj\Debug\GrapeCity.FISM.DataServices.pdb
+C:\Users\DarkLight\Documents\Visual Studio 2010\Projects\GrapeCity.FISM.Data\bin\Debug\GrapeCity.FISM.DataServices.dll
+C:\Users\DarkLight\Documents\Visual Studio 2010\Projects\GrapeCity.FISM.Data\bin\Debug\GrapeCity.FISM.DataServices.pdb
+C:\Users\DarkLight\Documents\Visual Studio 2010\Projects\GrapeCity.FISM.Data\obj\Debug\GrapeCity.FISM.DataServices.dll
+C:\Users\DarkLight\Documents\Visual Studio 2010\Projects\GrapeCity.FISM.Data\obj\Debug\GrapeCity.FISM.DataServices.pdb
+D:\Projects\FISM\GrapeCity.FISM.Data\bin\Debug\GrapeCity.FISM.DataServices.dll
+D:\Projects\FISM\GrapeCity.FISM.Data\bin\Debug\GrapeCity.FISM.DataServices.pdb
+D:\Projects\FISM\GrapeCity.FISM.Data\obj\Debug\GrapeCity.FISM.DataServices.dll
+D:\Projects\FISM\GrapeCity.FISM.Data\obj\Debug\GrapeCity.FISM.DataServices.pdb
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM.Data\bin\Debug\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM.Data\bin\Debug\GrapeCity.FISM.Data.pdb
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM.Data\obj\Debug\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM.Data\obj\Debug\GrapeCity.FISM.Data.pdb
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM.Data\bin\Debug\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM.Data\bin\Debug\GrapeCity.FISM.Data.pdb
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM.Data\obj\Debug\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM.Data\obj\Debug\GrapeCity.FISM.Data.pdb

@@ -1,0 +1,4 @@
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM.Data\bin\Debug\CodeQQ.FISM.Data.dll
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM.Data\bin\Debug\CodeQQ.FISM.Data.pdb
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM.Data\obj\Debug\CodeQQ.FISM.Data.dll
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM.Data\obj\Debug\CodeQQ.FISM.Data.pdb

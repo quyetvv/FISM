@@ -1,0 +1,4 @@
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\bin\Debug\FISM.exe
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\bin\Debug\FISM.pdb
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\obj\x86\Debug\FISM.exe
+c:\users\darklight\documents\visual studio 2010\Projects\FISM\obj\x86\Debug\FISM.pdb

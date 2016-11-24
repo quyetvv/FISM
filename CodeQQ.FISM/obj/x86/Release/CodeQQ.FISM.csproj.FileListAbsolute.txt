@@ -1,0 +1,7 @@
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM\bin\Release\FISM.exe
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM\bin\Release\FISM.pdb
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM\obj\x86\Release\CodeQQ.FISM.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM\obj\x86\Release\FISM.exe
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM\obj\x86\Release\FISM.pdb
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM\bin\Release\CodeQQ.FISM.Data.dll
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM\bin\Release\CodeQQ.FISM.Data.pdb

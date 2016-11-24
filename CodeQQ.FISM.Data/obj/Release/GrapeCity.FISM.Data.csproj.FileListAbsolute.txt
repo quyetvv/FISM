@@ -1,0 +1,17 @@
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM.Data\bin\Release\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM.Data\bin\Release\GrapeCity.FISM.Data.pdb
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM.Data\obj\Release\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\16022014_1515FISM\GrapeCity.FISM.Data\obj\Release\GrapeCity.FISM.Data.pdb
+D:\Projects\FISM\FISM_NoThread\GrapeCity.FISM.Data\bin\Release\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\FISM_NoThread\GrapeCity.FISM.Data\bin\Release\GrapeCity.FISM.Data.pdb
+D:\Projects\FISM\FISM_NoThread\GrapeCity.FISM.Data\obj\Release\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\FISM_NoThread\GrapeCity.FISM.Data\obj\Release\GrapeCity.FISM.Data.pdb
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM.Data\bin\Release\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM.Data\bin\Release\GrapeCity.FISM.Data.pdb
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM.Data\obj\Release\GrapeCity.FISM.Data.dll
+D:\Projects\FISM\FISM_NoThread\FISM\GrapeCity.FISM.Data\obj\Release\GrapeCity.FISM.Data.pdb
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM.Data\bin\Release\GrapeCity.FISM.Data.dll
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM.Data\bin\Release\GrapeCity.FISM.Data.pdb
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM.Data\obj\Release\GrapeCity.FISM.Data.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM.Data\obj\Release\GrapeCity.FISM.Data.dll
+D:\MyDocuments\Codes\FISM\GrapeCity.FISM.Data\obj\Release\GrapeCity.FISM.Data.pdb

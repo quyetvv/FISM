@@ -1,0 +1,7 @@
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM\obj\x86\Debug\FISM.exe
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM\obj\x86\Debug\FISM.pdb
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM\obj\x86\Debug\CodeQQ.FISM.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM\bin\Debug\FISM.exe
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM\bin\Debug\FISM.pdb
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM\bin\Debug\CodeQQ.FISM.Data.dll
+D:\MyDocuments\Codes\FISM\CodeQQ.FISM\bin\Debug\CodeQQ.FISM.Data.pdb
